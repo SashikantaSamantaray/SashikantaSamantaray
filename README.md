@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 
-<h1 align="center">Hi there, I'm Subham 👋</h1>
+<h1 align="center">Hi there, I'm SashiKanta👋</h1>
 <p align="center">
   <a href="https://github.com/Subham389">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full‑stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Clean+code.+Real+impact.+Always+learning." alt="Typing SVG" />
